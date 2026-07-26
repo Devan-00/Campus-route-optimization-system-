@@ -1,3 +1,11 @@
+"""
+Campus Route Optimization System
+Author: Deva Krishna Jayan
+
+This script implements Dijkstra’s algorithm
+for indoor navigation using graph-based modeling.
+"""
+
 import bpy
 import heapq
 
