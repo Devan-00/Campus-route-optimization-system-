@@ -70,6 +70,8 @@ The system uses graph-based pathfinding (Dijkstra’s Algorithm) to compute opti
 ## 👨‍💻 Author
 
 Deva Krishna Jayan
+Deril k shaju
+Dawn Reji
 BTech Computer Science (KTU)
 @ Adi shankara college (kalady)
 
