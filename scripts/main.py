@@ -1,6 +1,8 @@
 """
 Campus Route Optimization System
-Author: Deva Krishna Jayan
+Author: Deva Krishna Jayan,
+        Deril.K.Shaju
+        Dawn Reji
 
 This script implements Dijkstra’s algorithm
 for indoor navigation using graph-based modeling.
